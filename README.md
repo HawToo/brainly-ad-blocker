@@ -9,8 +9,7 @@ Are you tired of those pesky ads disrupting your learning experience on Brainly?
 ## Key Features
 
 - **Seamless Ad Removal:** Say goodbye to distractions! Our ad blocker seamlessly eliminates ads from your Brainly interface, allowing you to concentrate on what truly matters - your studies.
-- **Enhanced Compatibility:** We've fine-tuned the ad blocking process to ensure compatibility with the latest updates on the Brainly platform, providing you with a smooth browsing experience.
-- **Easy Integration:** Integrating the Brainly Ad Blocker into your browser is a breeze. We've provided comprehensive instructions to make the setup process as simple as possible.
+
 
 ## Installation Guide
 
@@ -20,10 +19,18 @@ To benefit from ad-free studying on Brainly, follow these steps:
 
 git clone https://github.com/your-username/brainly-ad-blocker.git
 
-
 2. **Integration:** Refer to the detailed integration guide in the `docs` folder to seamlessly integrate the ad blocker into your preferred browser.
 
-3. **Enjoy Ad-Free Learning:** Once integrated, you're all set! Enjoy a distraction-free learning journey on Brainly.
+3. **Dealing with Issues:** In some cases, attempting to inspect the website might trigger a warning and potentially lead to a block. If this happens, follow these steps to resolve the issue:
+- **Delete Cookies:** Open the Brainly website and proceed to delete cookies associated with the website. Here's how:
+  1. Navigate to the Brainly website.
+  2. Open the browser inspector (usually with `Ctrl + Shift + I` or `Cmd + Option + I`).
+  3. Go to the "Application" tab.
+  4. In the left sidebar, click on "Cookies" under "Storage."
+  5. Right-click on the website's domain and select "Clear" to remove cookies.
+  6. Refresh the website, and you should be able to access it without issues.
+
+4. **Enjoy Ad-Free Learning:** Once integrated and any issues resolved, you're all set! Enjoy a distraction-free learning journey on Brainly.
 
 ## Contribution
 
@@ -40,3 +47,4 @@ The Brainly Ad Blocker is built upon the foundation laid by Nitro's original ad 
 ---
 
 Enhance your Brainly experience – minus the distractions. Install the Brainly Ad Blocker today and take control of your learning journey like never before! 📚🔒
+
