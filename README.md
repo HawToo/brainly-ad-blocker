@@ -5,7 +5,7 @@ Welcome to the Brainly Ad Blocker repository! 🚫📢
 
 ## Key Features
 
-    1. Eliminates the annoying "Get more Answers for free" ad, ensuring you never have to sign up or pay to view the answers.
+  1. Eliminates the annoying "Get more Answers for free" ad, ensuring you never have to sign up or pay to view the answers.
 
 
 ## Installation Guide
