@@ -1,4 +1,5 @@
-# Brainly Ad Blocker
+# Brainly Ad Blocker (Browser Extension)
+  If you're unsure how to add a zip file to your extensions, search online for instructions specific to your browser.
 
 Welcome to the Brainly Ad Blocker repository! 🚫📢
 
@@ -16,8 +17,7 @@ Are you tired of those pesky ads disrupting your learning experience on Brainly?
 To benefit from ad-free studying on Brainly, follow these steps:
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-
-git clone https://github.com/your-username/brainly-ad-blocker.git
+    git clone https://github.com/your-username/brainly-ad-blocker.git
 
 2. **Integration:** Refer to the detailed integration guide in the `docs` folder to seamlessly integrate the ad blocker into your preferred browser.
 
@@ -32,10 +32,6 @@ git clone https://github.com/your-username/brainly-ad-blocker.git
 
 4. **Enjoy Ad-Free Learning:** Once integrated and any issues resolved, you're all set! Enjoy a distraction-free learning journey on Brainly.
 
-## Contribution
-
-We welcome contributions to enhance the Brainly Ad Blocker further. If you've identified issues or have ideas for improvements, feel free to open an issue or submit a pull request. Let's work together to create an optimal learning environment!
-
 ## Disclaimer
 
 Please note that the Brainly Ad Blocker is developed independently and is not officially affiliated with the Brainly platform. Use it responsibly and respect the platform's terms of use.
@@ -46,5 +42,5 @@ The Brainly Ad Blocker is built upon the foundation laid by Nitro's original ad 
 
 ---
 
-Enhance your Brainly experience – minus the distractions. Install the Brainly Ad Blocker today and take control of your learning journey like never before! 📚🔒
+
 
